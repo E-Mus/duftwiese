@@ -7,6 +7,10 @@ Duftzone einer Pflanze (Bäume haben mehrere, über die ganze Krone verteilt), n
 es deren Duftfarbe auf und trägt sie mit dem Wind davon, während sich der Duft
 langsam verflüchtigt. Wind = Richtung + Böen + Turbulenz + Auftrieb.
 
+![Duftwiese: farbige Duftwolken über weißen Pflanzen, rechts das Dev-Tool](docs/screenshot.png)
+
+*Die Pflanzen bleiben weiß — Farbe hat nur die Luft: Orange = Laubbaum (honigartig), Grün = Kiefer (harzig), Hellgrün = Kräuterbusch (frisch), Violett = Lavendel, Pink = Wiesenblume (blumig). Der Wind zieht die Fahnen nach rechts, während sie ausbleichen.*
+
 ## Starten
 
 ```bash
